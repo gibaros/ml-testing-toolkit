@@ -109,8 +109,6 @@
     "version": 1
   },
   {
-    "type": "callback",
-    "version": 1,
     "ruleId": 2,
     "priority": 1,
     "description": "post /quotes",
@@ -174,7 +172,9 @@
       },
       "delay": 0,
       "type": "MOCK_CALLBACK"
-    }
+    },
+    "type": "callback",
+    "version": 1
   },
   {
     "type": "callback",
